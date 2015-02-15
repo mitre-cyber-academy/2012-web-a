@@ -1,0 +1,4 @@
+name: "None Shall Pass"
+description: |
+  You have been asked to perform a penetration test on a web site that was a prototype and is now being used in production. The customer, a puggle breeder, suspects that the user authentication needs more locking down, but knows little else.  You have been given nothing but a web URL. Visit the [server](http://$htaccess) to see where the user logs in. You should be able to break in and view the flag. Please, think of the puggles.
+flag: "MCA-B281FAEE"
